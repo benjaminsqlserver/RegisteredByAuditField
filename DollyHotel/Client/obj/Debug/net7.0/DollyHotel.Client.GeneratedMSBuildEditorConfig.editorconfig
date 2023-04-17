@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = DollyHotel.Client
+build_property.RootNamespace = DollyHotel.Client
+build_property.ProjectDir = C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Pages/AddHotel.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkSG90ZWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Shared/BlankLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJsYW5rTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Shared/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Shared/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Shared/SearchLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlYXJjaExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MicrosoftTemplate/DollyHotel/DollyHotel/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-h1so3zu0q4

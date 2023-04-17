@@ -1,0 +1,99 @@
+﻿@page "/add-hotel"
+@layout MainLayout
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize(Roles = "Admin,Hotel")]
+<PageTitle>Add Hotel</PageTitle>
+<RadzenColumn SizeMD=12>
+    <RadzenAlert Shade="Shade.Lighter" Variant="Variant.Flat" Size="AlertSize.Small" AlertStyle="AlertStyle.Danger" Visible="@errorVisible">Cannot save Hotel</RadzenAlert>
+    <RadzenTemplateForm TItem="DollyHotel.Server.Models.ConData.Hotel" Data="@hotel" Visible="@(hotel != null && canEdit)" Submit="@FormSubmit">
+        <RadzenRow style="margin-bottom: 1rem">
+            <RadzenColumn SizeMD="3">
+                <RadzenLabel Text="Hotel Name:" Component="HotelName" style="width: 100%" />
+            </RadzenColumn>
+            <RadzenColumn SizeMD="9">
+                <RadzenTextBox style="display: block; width: 100%" @bind-Value="@hotel.HotelName" Name="HotelName" />
+                <RadzenRequiredValidator Component="HotelName" Text="Hotel Name is required" />
+            </RadzenColumn>
+        </RadzenRow>
+        <RadzenRow style="margin-bottom: 1rem">
+            <RadzenColumn SizeMD="3">
+                <RadzenLabel Text="Address:" Component="Address" style="width: 100%" />
+            </RadzenColumn>
+            <RadzenColumn SizeMD="9">
+                <RadzenTextBox style="display: block; width: 100%" @bind-Value="@hotel.Address" Name="Address" />
+                <RadzenRequiredValidator Component="Address" Text="Address is required" />
+            </RadzenColumn>
+        </RadzenRow>
+        <RadzenRow style="margin-bottom: 1rem">
+            <RadzenColumn SizeMD="3">
+                <RadzenLabel Text="Description:" Component="Description" style="width: 100%" />
+            </RadzenColumn>
+            <RadzenColumn SizeMD="9">
+                <RadzenTextBox style="display: block; width: 100%" @bind-Value="@hotel.Description" Name="Description" />
+                <RadzenRequiredValidator Component="Description" Text="Description is required" />
+            </RadzenColumn>
+        </RadzenRow>
+        <RadzenRow style="margin-bottom: 1rem">
+            <RadzenColumn SizeMD="3">
+                <RadzenLabel Text="Primary Phone Number:" Component="PhoneNumber1" style="width: 100%" />
+            </RadzenColumn>
+            <RadzenColumn SizeMD="9">
+                <RadzenTextBox style="display: block; width: 100%" @bind-Value="@hotel.PhoneNumber1" Name="PhoneNumber1" />
+                <RadzenRequiredValidator Component="PhoneNumber1" Text="Primary Phone Number is required" />
+            </RadzenColumn>
+        </RadzenRow>
+        <RadzenRow style="margin-bottom: 1rem">
+            <RadzenColumn SizeMD="3">
+                <RadzenLabel Text="Alternate Phone Number:" Component="PhoneNumber2" style="width: 100%" />
+            </RadzenColumn>
+            <RadzenColumn SizeMD="9">
+                <RadzenTextBox style="display: block; width: 100%" @bind-Value="@hotel.PhoneNumber2" Name="PhoneNumber2" />
+            </RadzenColumn>
+        </RadzenRow>
+        <RadzenRow style="margin-bottom: 1rem">
+            <RadzenColumn SizeMD="3">
+                <RadzenLabel Text="Email Address:" Component="EmailAddress" style="width: 100%" />
+            </RadzenColumn>
+            <RadzenColumn SizeMD="9">
+                <RadzenTextBox style="display: block; width: 100%" @bind-Value="@hotel.EmailAddress" Name="EmailAddress" />
+                <RadzenRequiredValidator Component="EmailAddress" Text="Email Address is required" />
+                <RadzenEmailValidator Component="EmailAddress" Text="Enter Valid Email Address" />
+            </RadzenColumn>
+        </RadzenRow>
+       @* <RadzenRow style="margin-bottom: 1rem">
+            <RadzenColumn SizeMD="3">
+                <RadzenLabel Text="Main Photo:" Component="MainPhoto" style="width: 100%" />
+            </RadzenColumn>
+            <RadzenColumn SizeMD="9">
+                <RadzenFileInput @bind-Value="@(hotel.MainPhoto)" Name="MainPhoto" TValue="string">
+                </RadzenFileInput>
+                <RadzenRequiredValidator Component="MainPhoto" Text="MainPhoto is required" />
+            </RadzenColumn>
+        </RadzenRow>*@
+        <RadzenRow style="margin-bottom: 1rem">
+            <RadzenColumn SizeMD="3">
+                <RadzenLabel Text="Hotel Type:" Component="HotelType" style="width: 100%" />
+            </RadzenColumn>
+            <RadzenColumn SizeMD="9">
+                <RadzenDropDown Data="@hotelTypesForHotelTypeID" TextProperty="HotelTypeName" ValueProperty="HotelTypeID"
+                                Placeholder="Choose Hotel Type" style="display: block; width: 100%" @bind-Value="@hotel.HotelTypeID" Name="HotelTypeID"
+                                Count=@hotelTypesForHotelTypeIDCount LoadData=@hotelTypesForHotelTypeIDLoadData />
+            </RadzenColumn>
+        </RadzenRow>
+        <RadzenRow style="margin-bottom: 1rem">
+            <RadzenColumn SizeMD="3">
+                <RadzenLabel Text="City:" Component="City" style="width: 100%" />
+            </RadzenColumn>
+            <RadzenColumn SizeMD="9">
+                <RadzenDropDown Data="@citiesForLocationID" TextProperty="CityName" ValueProperty="CityID"
+                                Placeholder="Choose City" style="display: block; width: 100%" @bind-Value="@hotel.LocationID" Name="LocationID"
+                                Count=@citiesForLocationIDCount LoadData=@citiesForLocationIDLoadData />
+            </RadzenColumn>
+        </RadzenRow>
+        <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.Center" Gap="0.5rem">
+            <RadzenButton ButtonStyle="ButtonStyle.Primary" ButtonType="ButtonType.Submit" Icon="save" Text="Save" Variant="Variant.Flat" />
+            <RadzenButton ButtonStyle="ButtonStyle.Light" Text="Cancel" Variant="Variant.Flat" Click="@CancelButtonClick" />
+        </RadzenStack>
+    </RadzenTemplateForm>
+</RadzenColumn>
+

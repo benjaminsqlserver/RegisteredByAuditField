@@ -1,0 +1,1798 @@
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Client.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Client.pdb
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Shared.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Shared.pdb
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.4.ojlstzkjtu.js
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Shared.pdb.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.4.ojlstzkjtu.js.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Client.pdb.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Client.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Shared.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\service-worker.js
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\service-worker-assets.js
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\DollyHotel.Client.staticwebassets.runtime.json
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\DollyHotel.Client.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\DollyHotel.Client.pdb
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.CSharp.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.AppContext.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Buffers.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Collections.Concurrent.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Collections.Immutable.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Collections.Specialized.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Collections.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Configuration.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Console.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Core.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Data.Common.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Data.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.Process.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Drawing.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Drawing.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Formats.Tar.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Globalization.Calendars.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Globalization.Extensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Globalization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Compression.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.FileSystem.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Pipes.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Linq.Expressions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Linq.Parallel.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Linq.Queryable.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Linq.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Memory.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Http.Json.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Http.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.HttpListener.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Mail.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.NameResolution.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Ping.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Quic.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Requests.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Security.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.ServicePoint.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Sockets.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.WebClient.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.WebProxy.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.WebSockets.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Numerics.Vectors.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Numerics.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ObjectModel.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Private.Uri.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Private.Xml.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Emit.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Extensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Metadata.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Resources.Reader.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Resources.Writer.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Extensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Handles.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Loader.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Numerics.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Serialization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.AccessControl.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Claims.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Principal.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.SecureString.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ServiceModel.Web.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ServiceProcess.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.Encoding.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.Json.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Channels.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Overlapped.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Tasks.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Thread.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Timer.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Transactions.Local.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Transactions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ValueTuple.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Web.HttpUtility.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Web.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Windows.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.Linq.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.Serialization.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.XDocument.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.XPath.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\WindowsBase.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\mscorlib.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\netstandard.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Private.CoreLib.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\dotnet.js
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\dotnet.timezones.blat
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\dotnet.wasm
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\icudt.dat
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\icudt_CJK.dat
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\icudt_EFIGS.dat
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\icudt_no_CJK.dat
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\DollyHotel.Shared.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\DollyHotel.Shared.pdb
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.csproj.AssemblyReference.cache
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.AssemblyInfoInputs.cache
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.AssemblyInfo.cs
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.csproj.CoreCompileInputs.cache
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\dbZYufgX.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\XLef2Qa9.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\0MYXxOyz.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Ug4+50sA.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\eEOZx3Ea.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Vaah8dQW.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\5ox+0+Mp.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\UHHx5AvA.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Th8a2BQb.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ela9BGXP.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\k+7JjxR1.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\JQFLZyNu.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\mxlJIvjE.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\aODgiI7F.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\yh+YQ8EK.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\zQnDmNLm.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\dc+c2PrG.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\pH601sZd.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Id7duwbE.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\5kfqWieO.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\TGX1uTho.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\46i4GcqB.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\QdffhoUl.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\YPRYi2Ql.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\0L6rwDPr.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\f6qeLJNl.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\mmD2csIY.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ecqTAb4Y.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nYwkODU5.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\7w8ecvG6.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DWb9pwdu.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\bqAMiZcI.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\AsOA5iy2.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\s2YuJj2C.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\liyOiqgj.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\pN53W0iW.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\GxgaA3Tq.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\tWFuYbkl.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\PrEqmFYh.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ahVGTkN9.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8iJNEE00.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\IHXyjGEF.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\66ovqMWu.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\StQ8pNjX.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8WC+veGM.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\w0OxOhar.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\KKqHgKqQ.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\zZ0k0qf4.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+GywMroA.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\7Mc+48nM.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ZVmDQVwX.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nKQo7T+w.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\A5PTRX3m.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\G8l3yQ1G.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\TNnGMNdn.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\isR2Vuag.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8op2fQfr.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\lWxwKcYM.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DhsW+o2p.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\BQQfAg4S.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\bnyvh7wV.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+YCdqXUH.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\tpOyOanx.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\1pSP8d7+.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\da60D2yH.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\7HjyvwkH.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DSvH9vgn.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\vxRrIdt3.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\XKyqoz+5.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Vq27khQo.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Lm5+GH7G.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\rBMJUyfg.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\WS1CYn6+.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\fXzxhJMa.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\9oTCVNKj.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\mMQDleKn.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+lzDJyI1.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\6zbkqjc9.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\mX+kn8xM.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\3VWef7PL.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\GuVCupTH.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Bw2P+yPQ.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\lSq3kEkM.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\sl5+KkJz.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\62fr1F2h.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\e2B7PHV+.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\4+2aP87Q.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\2ShhcwBy.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\2mrYqyi6.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\k67uZTF1.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8bM5uIta.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Ob5jeqBx.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\CP3y2Bws.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\qzEsLmRY.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\X8GQG4nb.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\S+zZ+Azn.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\i8P2ZCkP.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\mioTMhaC.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\HLfZw2Nn.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\9e9MDRqO.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\c6Mgsp5c.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\0xeltNdL.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\wCczMMEA.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\YqJG4IA8.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Ke0X3DDh.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nVWAR5OD.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ZFVa6J55.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Gyu0Ld0h.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\25y2Eqpf.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\K4fZUxWe.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\XKEN1RtJ.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\RenEAt3U.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\YBk2ZK49.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\SOz43qwe.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\yeUJJoYb.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\pq4XGj6v.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+tg3rFdl.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\PFeDzvFT.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\E++1rIhE.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ATvexmJc.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\d39X8+bw.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+YT4yLFO.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8ID8pcnZ.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\A9RyQVP4.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\seJTg2wI.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\KMlu50zn.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ysJHhFOi.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\b9vNOGw6.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\TD+FOArd.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\y6ns9Hva.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Rpq3quxK.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\72kHE8+W.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\0UsnKp22.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\EKysjAft.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\42uQGTgk.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\WzYAAk+I.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ykZuB64J.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\p0EzqEIK.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\6vZ+wUBn.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\5Uwb1Bek.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\bfZi10G5.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\P4HILsgr.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\o2QZrNdl.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+gqbnXRZ.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\P1wHWpPI.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\wJcCIOJ2.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\YswofBIr.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8xG9VhpD.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nKbsIi6W.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\2tRar83g.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\IuhApzWa.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ZK9XyM0r.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\k+wHwqqn.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\c8kQws85.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\9PaapEjm.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\xx7NxX+0.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\us59dU8N.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\bE+8qPD1.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\cMBtN4pz.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\o1t0bHuj.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\b3al9+h+.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Rg4yLkHP.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8prTRAt3.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\no6SVoxc.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DXud2bSL.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\M+Jx8Wcw.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\GtHwchIq.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\w+6mwf8A.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\tPoTv3cR.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8WtD1A+b.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\IbPFMZuI.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\oODKcOXV.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\S586VVrx.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\fc3ToW01.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DU9zC7Z2.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\n8y0DZV1.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\itFee3Oz.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\9NkdJlic.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\zoUbYqSb.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\PMPTZUJt.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\VZbnFItA.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\3OJMud1R.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\3y47wQI3.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\p7i2fKcw.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\EKxb9yfK.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\s+HGmLA8.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nQeIoi7d.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\vQwNdR3r.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\g+AaTwhE.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\AqeyYPsO.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\FpmfLvst.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\LGXa23gR.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\EFKltFs4.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8+gnTG5l.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\6FdEtCSm.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\fTv+j7JK.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\bV4jZrKm.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\yOWmHvrR.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\CKw+QxoH.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\kS9oQDIn.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\4F1HWlrT.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\zRxWVEYQ.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\2Y1N9Xzb.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\VJ7HS7fS.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\PZnKUNQ7.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\GadFQVi+.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\blazor.boot.json
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets\msbuild.DollyHotel.Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets\msbuild.build.DollyHotel.Client.props
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DollyHotel.Client.props
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DollyHotel.Client.props
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets.pack.json
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets.development.json
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\scopedcss\bundle\DollyHotel.Client.styles.css
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\scopedcss\projectbundle\DollyHotel.Client.bundle.scp.css
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\service-worker\service-worker.js
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\service-worker-assets.js.build
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.csproj.CopyComplete
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\refint\DollyHotel.Client.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.pdb
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\ref\DollyHotel.Client.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Radzen.Blazor.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Radzen.Blazor.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\WEUEhLXz.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+cENSiNc.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Memory.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Identity.Core.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Identity.Stores.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Identity.Core.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Identity.Stores.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Abstractions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.Relational.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.Abstractions.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Memory.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Cryptography.Internal.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.dll.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\NpHbSwbu.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\dAfVhVPb.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8ERdmEIY.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\OZkjMJNr.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\gxs+yrmB.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\cVnuwUWm.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\CbDcA15o.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nofuTgwX.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\4EMnk+Cq.gz
+C:\MicrosoftTemplate\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8OPNxO7o.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.4.ojlstzkjtu.js
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Memory.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Identity.Core.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Identity.Stores.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Radzen.Blazor.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Identity.Core.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.4.ojlstzkjtu.js.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Identity.Stores.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Abstractions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.Relational.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.Abstractions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Caching.Memory.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Cryptography.Internal.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.EntityFrameworkCore.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Client.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Client.pdb
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Shared.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Shared.pdb
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Client.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Shared.dll.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Client.pdb.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\_framework\DollyHotel.Shared.pdb.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\service-worker.js
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\wwwroot\service-worker-assets.js
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\DollyHotel.Client.staticwebassets.runtime.json
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\DollyHotel.Client.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\DollyHotel.Client.pdb
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Radzen.Blazor.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.CSharp.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.AppContext.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Buffers.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Collections.Concurrent.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Collections.Immutable.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Collections.Specialized.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Collections.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ComponentModel.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Configuration.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Console.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Core.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Data.Common.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Data.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.Process.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Drawing.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Drawing.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Formats.Tar.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Globalization.Calendars.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Globalization.Extensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Globalization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Compression.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.FileSystem.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.Pipes.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.IO.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Linq.Expressions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Linq.Parallel.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Linq.Queryable.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Linq.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Memory.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Http.Json.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Http.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.HttpListener.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Mail.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.NameResolution.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Ping.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Quic.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Requests.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Security.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.ServicePoint.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.Sockets.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.WebClient.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.WebProxy.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.WebSockets.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Net.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Numerics.Vectors.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Numerics.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ObjectModel.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Private.Uri.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Private.Xml.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Emit.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Extensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Metadata.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Reflection.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Resources.Reader.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Resources.Writer.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Extensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Handles.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Loader.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Numerics.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.Serialization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Runtime.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.AccessControl.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Claims.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Cryptography.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.Principal.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.SecureString.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Security.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ServiceModel.Web.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ServiceProcess.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.Encoding.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.Json.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Channels.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Overlapped.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Tasks.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Thread.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.Timer.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Threading.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Transactions.Local.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Transactions.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.ValueTuple.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Web.HttpUtility.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Web.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Windows.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.Linq.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.Serialization.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.XDocument.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.XPath.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Xml.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\WindowsBase.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\mscorlib.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\netstandard.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\System.Private.CoreLib.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\dotnet.js
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\dotnet.timezones.blat
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\dotnet.wasm
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\icudt.dat
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\icudt_CJK.dat
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\icudt_EFIGS.dat
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\icudt_no_CJK.dat
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\DollyHotel.Shared.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\bin\Debug\net7.0\DollyHotel.Shared.pdb
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.csproj.AssemblyReference.cache
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.AssemblyInfoInputs.cache
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.AssemblyInfo.cs
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.csproj.CoreCompileInputs.cache
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\dbZYufgX.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\XLef2Qa9.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\0MYXxOyz.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Ug4+50sA.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\eEOZx3Ea.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Vaah8dQW.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\5ox+0+Mp.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\NpHbSwbu.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\dAfVhVPb.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8ERdmEIY.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\UHHx5AvA.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\OZkjMJNr.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\gxs+yrmB.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\cVnuwUWm.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\CbDcA15o.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nofuTgwX.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Th8a2BQb.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ela9BGXP.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\k+7JjxR1.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\JQFLZyNu.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\mxlJIvjE.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\aODgiI7F.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\yh+YQ8EK.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\zQnDmNLm.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\dc+c2PrG.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\pH601sZd.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Id7duwbE.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\4EMnk+Cq.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8OPNxO7o.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\5kfqWieO.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\TGX1uTho.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\46i4GcqB.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\QdffhoUl.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\YPRYi2Ql.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\0L6rwDPr.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\WEUEhLXz.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\f6qeLJNl.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+cENSiNc.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\mmD2csIY.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ecqTAb4Y.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nYwkODU5.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\7w8ecvG6.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DWb9pwdu.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\bqAMiZcI.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\AsOA5iy2.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\s2YuJj2C.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\liyOiqgj.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\pN53W0iW.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\GxgaA3Tq.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\tWFuYbkl.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\PrEqmFYh.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ahVGTkN9.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8iJNEE00.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\IHXyjGEF.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\66ovqMWu.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\StQ8pNjX.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8WC+veGM.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\w0OxOhar.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\KKqHgKqQ.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\zZ0k0qf4.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+GywMroA.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\7Mc+48nM.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ZVmDQVwX.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nKQo7T+w.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\A5PTRX3m.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\G8l3yQ1G.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\TNnGMNdn.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\isR2Vuag.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8op2fQfr.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\lWxwKcYM.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DhsW+o2p.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\BQQfAg4S.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\bnyvh7wV.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+YCdqXUH.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\tpOyOanx.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\1pSP8d7+.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\da60D2yH.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\7HjyvwkH.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DSvH9vgn.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\vxRrIdt3.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\XKyqoz+5.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Vq27khQo.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Lm5+GH7G.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\rBMJUyfg.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\WS1CYn6+.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\fXzxhJMa.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\9oTCVNKj.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\mMQDleKn.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+lzDJyI1.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\6zbkqjc9.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\mX+kn8xM.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\3VWef7PL.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\GuVCupTH.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Bw2P+yPQ.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\lSq3kEkM.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\sl5+KkJz.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\62fr1F2h.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\e2B7PHV+.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\4+2aP87Q.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\2ShhcwBy.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\2mrYqyi6.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\k67uZTF1.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8bM5uIta.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Ob5jeqBx.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\CP3y2Bws.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\qzEsLmRY.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\X8GQG4nb.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\S+zZ+Azn.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\i8P2ZCkP.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\mioTMhaC.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\HLfZw2Nn.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\9e9MDRqO.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\c6Mgsp5c.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\0xeltNdL.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\wCczMMEA.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\YqJG4IA8.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Ke0X3DDh.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nVWAR5OD.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ZFVa6J55.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Gyu0Ld0h.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\25y2Eqpf.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\K4fZUxWe.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\XKEN1RtJ.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\RenEAt3U.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\YBk2ZK49.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\SOz43qwe.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\yeUJJoYb.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\pq4XGj6v.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+tg3rFdl.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\PFeDzvFT.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\E++1rIhE.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ATvexmJc.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\d39X8+bw.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+YT4yLFO.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8ID8pcnZ.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\A9RyQVP4.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\seJTg2wI.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\KMlu50zn.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ysJHhFOi.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\b9vNOGw6.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\TD+FOArd.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\y6ns9Hva.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Rpq3quxK.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\72kHE8+W.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\0UsnKp22.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\EKysjAft.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\42uQGTgk.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\WzYAAk+I.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ykZuB64J.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\p0EzqEIK.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\6vZ+wUBn.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\5Uwb1Bek.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\bfZi10G5.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\P4HILsgr.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\o2QZrNdl.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\+gqbnXRZ.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\P1wHWpPI.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\wJcCIOJ2.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\YswofBIr.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8xG9VhpD.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nKbsIi6W.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\2tRar83g.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\IuhApzWa.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\ZK9XyM0r.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\k+wHwqqn.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\c8kQws85.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\9PaapEjm.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\xx7NxX+0.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\us59dU8N.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\bE+8qPD1.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\cMBtN4pz.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\o1t0bHuj.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\b3al9+h+.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\Rg4yLkHP.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8prTRAt3.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\no6SVoxc.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DXud2bSL.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\M+Jx8Wcw.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\GtHwchIq.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\w+6mwf8A.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\tPoTv3cR.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8WtD1A+b.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\IbPFMZuI.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\oODKcOXV.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\S586VVrx.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\fc3ToW01.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DU9zC7Z2.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\n8y0DZV1.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\itFee3Oz.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\9NkdJlic.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\zoUbYqSb.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\PMPTZUJt.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\VZbnFItA.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\3OJMud1R.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\3y47wQI3.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\p7i2fKcw.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\EKxb9yfK.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\s+HGmLA8.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\nQeIoi7d.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\vQwNdR3r.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\g+AaTwhE.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\AqeyYPsO.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\FpmfLvst.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\LGXa23gR.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\EFKltFs4.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8+gnTG5l.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\6FdEtCSm.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\fTv+j7JK.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\bV4jZrKm.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\yOWmHvrR.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\CKw+QxoH.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\kS9oQDIn.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\4F1HWlrT.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\DXtmpky9.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\YHTQubq2.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\8lqSuFdJ.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\M4Pfgxev.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\build-gz\GadFQVi+.gz
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\blazor.boot.json
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets\msbuild.DollyHotel.Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets\msbuild.build.DollyHotel.Client.props
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DollyHotel.Client.props
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DollyHotel.Client.props
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets.pack.json
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets.build.json
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\staticwebassets.development.json
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\scopedcss\bundle\DollyHotel.Client.styles.css
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\scopedcss\projectbundle\DollyHotel.Client.bundle.scp.css
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\service-worker\service-worker.js
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\service-worker-assets.js.build
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.csproj.CopyComplete
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\refint\DollyHotel.Client.dll
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\DollyHotel.Client.pdb
+C:\MicrosoftTemplate - Copy\DollyHotel\DollyHotel\Client\obj\Debug\net7.0\ref\DollyHotel.Client.dll
